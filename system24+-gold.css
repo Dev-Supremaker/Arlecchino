@@ -163,6 +163,18 @@ body {
     --purple-5: hsl(344, 47%, 58%);
 }
 
+/* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
+@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/refs/heads/master/betterdiscord/no-scrollbar.css";
+
+/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
+@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/refs/heads/master/betterdiscord/better-spotify.css";
+
+/* ═══════『 🎵 ・ Vencord Spotify Plugin 』- Comment the line below if you don't want this spotify bar FOR VENCORD */
+@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/refs/heads/master/betterdiscord/vencord-spotify.css";
+
+/* ═══════『 Settings Modal 』- Comment the line below if you don't want this theme */
+@import "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/refs/heads/master/Themes/SettingsModal/SettingsModal.css";
+
 /* Collapsible sidebars */
 .visual-refresh [class^="sidebarList_"] {
   position: fixed; /* Remove if you don't want it to float */
